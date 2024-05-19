@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inventario.WebApi_.props" />
+</Project>
